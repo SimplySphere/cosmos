@@ -1,6 +1,6 @@
 # Download Python tasks here:
 
-- <a href="./python-tasks/Python Tasks.zip" download>All 7 Tasks</a>
+- <a href="./python-tasks/Python Tasks.zip" download>All 7 tasks</a>
 - <a href="./python-tasks/DNA_to_protein_model.ipynb" download>Task 1: DNA to Protein Model</a>
 - <a href="./python-tasks/reverse_engineer_DNA.ipynb" download>Task 2: Reverse Engineer Protein to DNA Possibilites</a>
 - <a href="./python-tasks/gamblers_ruin_stats.ipynb" download>Task 3: Gambler's Ruin</a>
