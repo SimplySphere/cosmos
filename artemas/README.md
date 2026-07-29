@@ -1,4 +1,5 @@
-# ARTEMAS: Autoregressive Recursive Transformer for Extended-horizon Monte Carlo Asset Simulation
+# ARTEMAS 
+### Autoregressive Recursive Transformer for Extended-horizon Monte Carlo Asset Simulation
 
 The project asks: **What would happen if I used an LLM transformer to model the stock market?**
 
